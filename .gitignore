@@ -1,0 +1,15 @@
+/.venv
+/docs
+/botrpa/botrpa/doc
+/botrpa/botrpa/__pycache__
+/botrpa/botrpa.egg-info
+/botrpa/botrpa.botproj
+/botrpa/build.bat
+/botrpa/build.sh
+/botrpa/MANIFEST.in
+/botrpa/README.md
+/botrpa/requirements.txt
+/botrpa/setup.py
+/botrpa/VERSION
+
+
